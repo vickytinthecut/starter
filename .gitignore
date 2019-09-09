@@ -1,5 +1,5 @@
-# Object file
-*.o
+# Executables
+*.exe
 
-# Ada Library Information
-*.ali
+# Com files
+*.com
