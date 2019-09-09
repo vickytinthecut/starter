@@ -1,4 +1,4 @@
-# starter
+# title: starter
 
-# this is my name
-https://vickytinthecut.github.io/starter/index.html
+# description: this is my name
+link: https://vickytinthecut.github.io/starter/index.html
